@@ -79,12 +79,14 @@ we will be using the “User Info” page from Mutillidae to perform a Union-Bas
 
 After logging out, Now choose the menu as shown below:
 ![img](Screenshot_2023-06-10_13_13_23.png)
-![Screenshot 2023-06-10 224221](https://github.com/praveenst13/sqlinjection/assets/118787793/123993df-2a2b-455f-abde-8904a72314dd)
+<img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/708559e8-b063-4bdf-9767-530211412b83" />
+
 
 
 ![Screenshot 2023-06-10 224420](https://github.com/praveenst13/sqlinjection/assets/118787793/9b365f7e-d511-4ff4-a5fb-d33ee779cb86)
 
-![Screenshot 2023-06-10 224452](https://github.com/praveenst13/sqlinjection/assets/118787793/7b70cf08-aa04-4ba1-b7e5-12f048c98c57)
+<img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/f8b907c1-8d5a-405f-b7c8-c3c435e627e1" />
+
 
 ![Screenshot 2023-06-10 224520](https://github.com/praveenst13/sqlinjection/assets/118787793/713a7087-4c4a-49a0-8c23-92af437df4b1)
 
