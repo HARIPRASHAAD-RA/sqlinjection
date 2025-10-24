@@ -1,3 +1,4 @@
+<img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/6a67a95b-3c5f-40a2-b951-9bf7331474ec" />
 # sqlinjection
 Exploiting SQL Injection vulnerability
 
@@ -78,19 +79,7 @@ UNION-based SQL injection assaults enable the analyzer to extract data from the 
 we will be using the “User Info” page from Mutillidae to perform a Union-Based SQL injection attack. Go to “OWASP Top 10/A1 — Injection/SQLi — Extract-Data/User Info” 
 
 After logging out, Now choose the menu as shown below:
-![img](Screenshot_2023-06-10_13_13_23.png)
-<img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/708559e8-b063-4bdf-9767-530211412b83" />
 
-
-
-![Screenshot 2023-06-10 224420](https://github.com/praveenst13/sqlinjection/assets/118787793/9b365f7e-d511-4ff4-a5fb-d33ee779cb86)
-
-<img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/f8b907c1-8d5a-405f-b7c8-c3c435e627e1" />
-
-
-![Screenshot 2023-06-10 224520](https://github.com/praveenst13/sqlinjection/assets/118787793/713a7087-4c4a-49a0-8c23-92af437df4b1)
-
-![Screenshot 2023-06-10 224530](https://github.com/praveenst13/sqlinjection/assets/118787793/a242176f-df4f-4eb2-8296-0671fd7d7264)
 From this point, all our attack vectors will be performed in the URL section of the page using the Union-Based technique.There are two different ways to discover how many columns are selected by the original query. The first is to infuse an “ORDER BY” statement indicating a column number. Given the column number specified is higher than the number of columns in the “SELECT” statement, an error will be returned.
 ![Screenshot 2023-06-10 224702](https://github.com/praveenst13/sqlinjection/assets/118787793/10c8f015-3770-46b5-b320-bf37cc7bbdae)
 
