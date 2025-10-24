@@ -1,4 +1,4 @@
-<img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/6a67a95b-3c5f-40a2-b951-9bf7331474ec" />
+
 # sqlinjection
 Exploiting SQL Injection vulnerability
 
