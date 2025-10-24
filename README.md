@@ -41,7 +41,8 @@ Click on the menu Login/Register and register for an account
 ![Screenshot 2023-06-10 214003](https://github.com/praveenst13/sqlinjection/assets/118787793/dfe4513c-3c0d-43e0-b1e4-ad4baee43b98)
 
 Click on the link “Please register here”
-![Screenshot 2023-06-10 214117](https://github.com/praveenst13/sqlinjection/assets/118787793/abd46fae-74a4-48e7-9f95-8eb1470cfe3c)
+<img width="1205" height="577" alt="image" src="https://github.com/user-attachments/assets/9e7f6df9-291c-4d8a-af81-cdda6c7e0f3d" />
+
 
 Click on “Create Account” to display the following page:
 ![Screenshot 2023-06-10 214903](https://github.com/praveenst13/sqlinjection/assets/118787793/499aca4d-391b-4f0e-ac33-31ace3337955)
