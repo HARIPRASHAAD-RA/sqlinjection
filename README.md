@@ -79,7 +79,18 @@ UNION-based SQL injection assaults enable the analyzer to extract data from the 
 we will be using the “User Info” page from Mutillidae to perform a Union-Based SQL injection attack. Go to “OWASP Top 10/A1 — Injection/SQLi — Extract-Data/User Info” 
 
 After logging out, Now choose the menu as shown below:
+![img](Screenshot_2023-06-10_13_13_23.png)
+![Screenshot 2023-06-10 224221](https://github.com/praveenst13/sqlinjection/assets/118787793/123993df-2a2b-455f-abde-8904a72314dd)
 
+<img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/c5f0abfd-0e47-400e-8f3b-efa3d5dc04e2" />
+
+
+![Screenshot 2023-06-10 224452](https://github.com/praveenst13/sqlinjection/assets/118787793/7b70cf08-aa04-4ba1-b7e5-12f048c98c57)
+
+<img width="1326" height="631" alt="image" src="https://github.com/user-attachments/assets/528a3178-4cc2-4c11-8f88-db79b4f7493e" />
+
+
+![Screenshot 2023-06-10 224530](https://github.com/praveenst13/sqlinjection/assets/118787793/a242176f-df4f-4eb2-8296-0671fd7d7264)
 From this point, all our attack vectors will be performed in the URL section of the page using the Union-Based technique.There are two different ways to discover how many columns are selected by the original query. The first is to infuse an “ORDER BY” statement indicating a column number. Given the column number specified is higher than the number of columns in the “SELECT” statement, an error will be returned.
 ![Screenshot 2023-06-10 224702](https://github.com/praveenst13/sqlinjection/assets/118787793/10c8f015-3770-46b5-b320-bf37cc7bbdae)
 
